@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <meta name="description"
+        content="The Veguru Family — Tirupati. Family history, generations and roots.">
+
+  <title>Veguru Tirupati | Our Family</title>
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600&display=swap"
+    rel="stylesheet">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="style.css">
+</head>
+
+
+<body>
+
+
+<!-- ================= NAVIGATION ================= -->
+
+<header class="nav">
+
+  <a class="brand" href="#home">
+    <span>V</span>
+    Veguru
+    <small>• Tirupati</small>
+  </a>
+
+  <button class="menu" aria-label="Open menu">
+    ☰
+  </button>
+
+  <nav>
+    <a href="#story">Our Story</a>
+    <a href="#family">Family</a>
+    <a href="#career">Career</a>
+    <a href="#roots">Our Roots</a>
+  </nav>
+
+</header>
+
+
+
+<main>
+
+
+<!-- ================= HERO ================= -->
+
+<section id="home" class="hero">
+
+  <div class="hero-overlay"></div>
+
+  <div class="hero-content">
+
+    <p class="eyebrow">
+      EST. IN TIRUPATI · ANDHRA PRADESH
+    </p>
+
+    <h1>
+      The <em>Veguru</em><br>
+      Family
+    </h1>
+
+    <p class="intro">
+      A family connected by generations, memories,
+      traditions and the name Veguru.
+    </p>
+
+    <a class="button" href="#family">
+      Meet the family
+      <span>↓</span>
+    </a>
+
+  </div>
+
+  <div class="scroll">
+    SCROLL TO DISCOVER
+  </div>
+
+</section>
+
+
+
+<!-- ================= OUR STORY ================= -->
+
+<section id="story" class="section story">
+
+  <div class="section-label">
+    01 · OUR STORY
+  </div>
+
+  <div class="two-col">
+
+    <div>
+
+      <h2>
+        Rooted in<br>
+        <em>Tirupati.</em>
+      </h2>
+
+    </div>
+
+
+    <div class="copy">
+
+      <p class="lead">
+        Welcome to the digital home of the Veguru family.
+      </p>
+
+      <p>
+        This website preserves our family's names,
+        relationships, memories and milestones for
+        generations to come.
+      </p>
+
+      <p>
+        Our story begins with our roots in Tirupati
+        and continues through every generation of
+        the family.
+      </p>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+
+<!-- ================= FAMILY TREE ================= -->
+
+<section id="family" class="section family">
+
+  <div class="section-label">
+    02 · OUR FAMILY
+  </div>
+
+  <h2>
+    The <em>Veguru Family</em>
+  </h2>
+
+  <p class="section-intro">
+    Three generations connected through family,
+    love and memories.
+  </p>
+
+
+
+  <!-- GENERATION I -->
+
+  <div class="generation-title">
+    GENERATION I
+  </div>
+
+  <div class="family-row">
+
+
+    <article class="person-card">
+
+      <div class="person-icon">
+        V
+      </div>
+
+      <h3>
+        Veguru Venkata Ratnam
+      </h3>
+
+      <p>
+        Father of Veguru Damodaram
+      </p>
+
+    </article>
+
+
+
+    <article class="person-card">
+
+      <div class="person-icon">
+        M
+      </div>
+
+      <h3>
+        Munirajamma Veguru
+      </h3>
+
+      <p>
+        Mother of Veguru Damodaram
+      </p>
+
+    </article>
+
+
+  </div>
+
+
+  <div class="tree-line"></div>
+
+
+
+  <!-- GENERATION II -->
+
+  <div class="generation-title">
+    GENERATION II
+  </div>
+
+  <div class="family-row">
+
+
+    <article class="person-card featured">
+
+      <div class="person-icon">
+        D
+      </div>
+
+      <h3>
+        Veguru Damodaram
+      </h3>
+
+      <p>
+        Son of Venkata Ratnam & Munirajamma
+      </p>
+
+      <div class="career-badge">
+        Accounts Officer · BSNL
+      </div>
+
+    </article>
+
+
+
+    <article class="person-card featured">
+
+      <div class="person-icon">
+        P
+      </div>
+
+      <h3>
+        Pelluru Padmavati
+      </h3>
+
+      <p>
+        Wife of Veguru Damodaram
+      </p>
+
+    </article>
+
+
+  </div>
+
+
+  <div class="tree-line"></div>
+
+
+
+  <!-- GENERATION III -->
+
+  <div class="generation-title">
+    GENERATION III
+  </div>
+
+  <div class="family-row">
+
+
+    <article class="person-card">
+
+      <div class="person-icon">
+        A
+      </div>
+
+      <h3>
+        Arjun Ratna
+      </h3>
+
+      <p>
+        Son of Damodaram & Padmavati
+      </p>
+
+    </article>
+
+
+
+    <article class="person-card">
+
+      <div class="person-icon">
+        A
+      </div>
+
+      <h3>
+        Anjali Ranta
+      </h3>
+
+      <p>
+        Daughter of Damodaram & Padmavati
+      </p>
+
+    </article>
+
+
+  </div>
+
+</section>
+
+
+
+<!-- ================= CAREER ================= -->
+
+<section id="career" class="section career">
+
+  <div class="section-label">
+    03 · CAREER
+  </div>
+
+
+  <div class="career-card">
+
+
+    <div class="career-symbol">
+      BSNL
+    </div>
+
+
+    <div class="career-content">
+
+      <p class="eyebrow">
+        PROFESSIONAL JOURNEY
+      </p>
+
+      <h2>
+        Veguru <em>Damodaram</em>
+      </h2>
+
+      <h3>
+        Accounts Officer
+      </h3>
+
+      <p class="organization">
+        Bharat Sanchar Nigam Limited (BSNL)
+      </p>
+
+      <p class="location">
+        BBNW · Bengaluru
+      </p>
+
+      <div class="career-divider"></div>
+
+      <p class="career-description">
+        Serving as an Accounts Officer with BSNL,
+        associated with BBNW in Bengaluru.
+      </p>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+
+<!-- ================= FAMILY MESSAGE ================= -->
+
+<section class="family-message">
+
+  <div class="message-inner">
+
+    <span class="quote-mark">
+      “
+    </span>
+
+    <h2>
+      One family.<br>
+      <em>Many stories.</em>
+    </h2>
+
+    <p>
+      Every generation adds another chapter
+      to the story of the Veguru family.
+    </p>
+
+  </div>
+
+</section>
+
+
+
+<!-- ================= ROOTS ================= -->
+
+<section id="roots" class="section roots">
+
+  <div class="section-label">
+    04 · OUR ROOTS
+  </div>
+
+
+  <div class="roots-card">
+
+    <div class="mandala">
+      ✦
+    </div>
+
+    <p class="eyebrow">
+      TIRUPATI · ANDHRA PRADESH
+    </p>
+
+    <h2>
+      Where our story<br>
+      <em>begins.</em>
+    </h2>
+
+    <p>
+      Tirupati is part of the family's history,
+      identity and memories. It is the place that
+      connects generations of the Veguru family.
+    </p>
+
+  </div>
+
+</section>
+
+
+</main>
+
+
+
+<!-- ================= FOOTER ================= -->
+
+<footer>
+
+  <div>
+
+    <strong>
+      VEGURU
+    </strong>
+
+    <span>
+      Tirupati · Andhra Pradesh
+    </span>
+
+  </div>
+
+
+  <p>
+    Built to preserve our family story.
+  </p>
+
+</footer>
+
+
+
+<!-- ================= MOBILE MENU ================= -->
+
+<script>
+
+  const menu = document.querySelector('.menu');
+  const nav = document.querySelector('nav');
+
+  menu.addEventListener('click', () => {
+    nav.classList.toggle('open');
+  });
+
+
+  document.querySelectorAll('nav a').forEach(link => {
+
+    link.addEventListener('click', () => {
+      nav.classList.remove('open');
+    });
+
+  });
+
+</script>
+
+
+</body>
+</html>
